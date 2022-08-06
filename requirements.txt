@@ -1,0 +1,8 @@
+tensorflow==2.4
+keras==2.4.3
+mtcnn
+flask
+sklearn
+opencv-python
+
+
